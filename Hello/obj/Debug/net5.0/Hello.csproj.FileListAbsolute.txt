@@ -1,0 +1,16 @@
+/home/sci/IS/Hello/bin/Debug/net5.0/Hello
+/home/sci/IS/Hello/bin/Debug/net5.0/Hello.deps.json
+/home/sci/IS/Hello/bin/Debug/net5.0/Hello.runtimeconfig.json
+/home/sci/IS/Hello/bin/Debug/net5.0/Hello.runtimeconfig.dev.json
+/home/sci/IS/Hello/bin/Debug/net5.0/Hello.dll
+/home/sci/IS/Hello/bin/Debug/net5.0/ref/Hello.dll
+/home/sci/IS/Hello/bin/Debug/net5.0/Hello.pdb
+/home/sci/IS/Hello/obj/Debug/net5.0/Hello.csproj.AssemblyReference.cache
+/home/sci/IS/Hello/obj/Debug/net5.0/Hello.GeneratedMSBuildEditorConfig.editorconfig
+/home/sci/IS/Hello/obj/Debug/net5.0/Hello.AssemblyInfoInputs.cache
+/home/sci/IS/Hello/obj/Debug/net5.0/Hello.AssemblyInfo.cs
+/home/sci/IS/Hello/obj/Debug/net5.0/Hello.csproj.CoreCompileInputs.cache
+/home/sci/IS/Hello/obj/Debug/net5.0/Hello.dll
+/home/sci/IS/Hello/obj/Debug/net5.0/ref/Hello.dll
+/home/sci/IS/Hello/obj/Debug/net5.0/Hello.pdb
+/home/sci/IS/Hello/obj/Debug/net5.0/Hello.genruntimeconfig.cache
