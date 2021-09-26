@@ -1,0 +1,16 @@
+/home/sci/code/is/Task 3/obj/Debug/net5.0/Task 3.csproj.AssemblyReference.cache
+/home/sci/code/is/Task 3/obj/Debug/net5.0/Task 3.GeneratedMSBuildEditorConfig.editorconfig
+/home/sci/code/is/Task 3/obj/Debug/net5.0/Task 3.AssemblyInfoInputs.cache
+/home/sci/code/is/Task 3/obj/Debug/net5.0/Task 3.AssemblyInfo.cs
+/home/sci/code/is/Task 3/obj/Debug/net5.0/Task 3.csproj.CoreCompileInputs.cache
+/home/sci/code/is/Task 3/bin/Debug/net5.0/Task 3
+/home/sci/code/is/Task 3/bin/Debug/net5.0/Task 3.deps.json
+/home/sci/code/is/Task 3/bin/Debug/net5.0/Task 3.runtimeconfig.json
+/home/sci/code/is/Task 3/bin/Debug/net5.0/Task 3.runtimeconfig.dev.json
+/home/sci/code/is/Task 3/bin/Debug/net5.0/Task 3.dll
+/home/sci/code/is/Task 3/bin/Debug/net5.0/ref/Task 3.dll
+/home/sci/code/is/Task 3/bin/Debug/net5.0/Task 3.pdb
+/home/sci/code/is/Task 3/obj/Debug/net5.0/Task 3.dll
+/home/sci/code/is/Task 3/obj/Debug/net5.0/ref/Task 3.dll
+/home/sci/code/is/Task 3/obj/Debug/net5.0/Task 3.pdb
+/home/sci/code/is/Task 3/obj/Debug/net5.0/Task 3.genruntimeconfig.cache
